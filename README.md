@@ -1,4 +1,4 @@
-beryl
+Beryl
 =====
 
-Beryl
+Pretty styles for my documents
