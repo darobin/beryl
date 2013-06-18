@@ -1,7 +1,7 @@
 {
-    "name":     "beryl"
-,   "version":  "0.0.1"
+    "name":         "beryl"
+,   "description":  "Pretty styles for my documents"
+,   "version":      "0.0.1"
 ,   "dependencies": {
-        "architect":    "0.1.8"
     }
 }
