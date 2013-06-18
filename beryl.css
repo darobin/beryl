@@ -5,14 +5,13 @@
 */
 
 
-/*@import "normalize.css";*/
+@import "normalize.css";
 @import "museo/museo.css";
 
-body { font-family: 'museo300' }
-/*main {
+main {
     max-width:  700px;
     margin: auto;
-    font-family:    "Museo 300", sans-serif;
+    font-family:    "museo300", sans-serif;
 }
 
 header {
@@ -35,7 +34,7 @@ header .meta {
 a {
     color:  inherit;
     text-decoration: none;
-    border-bottom:  1px solid gray;
+    border-bottom:  1px dotted gray;
 }
 
 main > section {
@@ -45,5 +44,3 @@ main > section {
 h2, h3, h4, h5, h6 {
     font-weight:    normal;
 }
-
-*/
